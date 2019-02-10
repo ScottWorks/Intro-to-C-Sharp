@@ -1,0 +1,11 @@
+/home/corvo/Projects/Developer/Notes/C#/Sandbox/obj/Debug/netcoreapp2.2/Sandbox.csprojAssemblyReference.cache
+/home/corvo/Projects/Developer/Notes/C#/Sandbox/obj/Debug/netcoreapp2.2/Sandbox.csproj.CoreCompileInputs.cache
+/home/corvo/Projects/Developer/Notes/C#/Sandbox/obj/Debug/netcoreapp2.2/Sandbox.AssemblyInfoInputs.cache
+/home/corvo/Projects/Developer/Notes/C#/Sandbox/obj/Debug/netcoreapp2.2/Sandbox.AssemblyInfo.cs
+/home/corvo/Projects/Developer/Notes/C#/Sandbox/bin/Debug/netcoreapp2.2/Sandbox.deps.json
+/home/corvo/Projects/Developer/Notes/C#/Sandbox/bin/Debug/netcoreapp2.2/Sandbox.runtimeconfig.json
+/home/corvo/Projects/Developer/Notes/C#/Sandbox/bin/Debug/netcoreapp2.2/Sandbox.runtimeconfig.dev.json
+/home/corvo/Projects/Developer/Notes/C#/Sandbox/bin/Debug/netcoreapp2.2/Sandbox.dll
+/home/corvo/Projects/Developer/Notes/C#/Sandbox/bin/Debug/netcoreapp2.2/Sandbox.pdb
+/home/corvo/Projects/Developer/Notes/C#/Sandbox/obj/Debug/netcoreapp2.2/Sandbox.dll
+/home/corvo/Projects/Developer/Notes/C#/Sandbox/obj/Debug/netcoreapp2.2/Sandbox.pdb
